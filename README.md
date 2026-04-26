@@ -21,7 +21,6 @@ Welcome to **Online Search SA**, a modern and responsive job search portal UI de
 **A sleek, high-performance platform for modern job seekers.**
 
 [![Demo](https://img.shields.io/badge/LIVE_PREVIEW-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sajjadali-fullstack.github.io/online-job-search-portal/)
-[![GitHub](https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github)](https://github.com/sajjadali-fullstack/online-job-search-portal)
 
 </div>
 
