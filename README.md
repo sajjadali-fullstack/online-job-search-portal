@@ -15,12 +15,15 @@ Welcome to **Online Search SA**, a modern and responsive job search portal UI de
 - **Bootstrap 4.4.1**: For layout and responsiveness.
 - **JavaScript/**: For interactive components (dropdowns, toggles).
 
----
+<div align="center">
 
-# 🌟 Luma Landing Page
-## 🔗 Live Demo
+# 🚀 Job Portal 
+**A sleek, high-performance platform for modern job seekers.**
 
-[![Live](https://img.shields-live_link-green?style=for-the-badge&logo=vercel)](https://sajjadali-fullstack.github.io/online-job-search-portal/)
+[![Demo](https://img.shields.io/badge/LIVE_PREVIEW-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://sajjadali-fullstack.github.io/online-job-search-portal/)
+[![GitHub](https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github)](https://github.com/sajjadali-fullstack/online-job-search-portal)
+
+</div>
 
 ---
 
