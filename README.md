@@ -1,3 +1,16 @@
+Har bade safar ki shuruaat ek chhote kadam se hoti hai. Ye sirf ek project nahi, meri mehnat ki pehli nishani hai." 🥺✨
+
+## 📌 About This Project
+This is my very first project, built back in 2024.
+
+I am fully aware that the structure and code quality might not be perfect or up to professional standards yet. Since I was just starting my journey as a developer, it’s a bit messy — but it holds a very special place in my heart. ❤️
+
+Future Plans: I am planning to refactor the code and improve the architecture in the future. For now, I’ve kept it in its original state to remind myself of how far I’ve come and where it all started. 📈💫
+
+## 💡 Why I'm sharing this:
+It represents my growth. While my newer projects like GenZKart show my current skills, this project shows my roots and the hustle I started with.
+
+---
 # Job Search Portal - Frontend Template
 
 Welcome to **Online Search SA**, a modern and responsive job search portal UI designed to help users find opportunities in major Indian cities like Mumbai, Pune, Hyderabad, and Andhra Pradesh.
