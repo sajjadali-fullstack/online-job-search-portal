@@ -8,7 +8,7 @@ I am fully aware that the structure and code quality might not be perfect or up 
 **Future Plans**: I am planning to refactor the code and improve the architecture in the future. For now, I’ve kept it in its original state to remind myself of how far I’ve come and where it all started. 📈💫
 
 ## 💡 Why I'm sharing this:
-It represents my growth. While my newer projects like GenZKart show my current skills, this project shows my roots and the hustle I started with.
+It represents my growth. While my newer projects like ***GenZKart*** show my current skills, this project shows my roots and the hustle I started with.
 
 ---
 # Job Search Portal - Frontend Template
